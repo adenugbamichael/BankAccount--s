@@ -1,0 +1,24 @@
+{
+  "name": "bankacct-arrays",
+  "version": "1.0.0",
+  "description": "Online Banking",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adenugbamichael/BankAcct-Arrays.git"
+  },
+  "keywords": [
+    "Javascript",
+    "html",
+    "css"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adenugbamichael/BankAcct-Arrays/issues"
+  },
+  "homepage": "https://github.com/adenugbamichael/BankAcct-Arrays#readme"
+}
